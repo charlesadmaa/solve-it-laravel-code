@@ -1,0 +1,303 @@
+.brand-logo.auth_logo {
+    width: 200px;
+    margin: 25px auto !important;
+}
+
+.card-header.flex-column.align-items-start.pb-0 {
+    padding-bottom: 30px !important;
+}
+
+.navigation-header span {
+    font-size: 10px !important;
+    font-weight: 900 !important;
+    color: #939393;
+}
+
+.navigation {
+    font-size: 1rem;
+}
+
+.brand-logo_2.auth_logo_2 {
+    width: 100px;
+    height: 37px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.nav-item.mr-auto {
+    margin: 0 auto;
+}
+
+.main-menu .navbar-header {
+    height: 6.45rem;
+    /* margin-bottom: 30px; */
+}
+
+.dark-layout .main-menu-content .navigation-main {
+    padding-bottom: 50px;
+}
+
+table.dataTable thead>tr>th.sorting::before,
+table.dataTable thead>tr>th.sorting::after,
+table.dataTable thead>tr>th.sorting_asc::before,
+table.dataTable thead>tr>th.sorting_asc::after,
+table.dataTable thead>tr>th.sorting_desc::before,
+table.dataTable thead>tr>th.sorting_desc::after,
+table.dataTable thead>tr>th.sorting_asc_disabled::before,
+table.dataTable thead>tr>th.sorting_asc_disabled::after,
+table.dataTable thead>tr>th.sorting_desc_disabled::before,
+table.dataTable thead>tr>th.sorting_desc_disabled::after,
+table.dataTable thead>tr>td.sorting::before,
+table.dataTable thead>tr>td.sorting::after,
+table.dataTable thead>tr>td.sorting_asc::before,
+table.dataTable thead>tr>td.sorting_asc::after,
+table.dataTable thead>tr>td.sorting_desc::before,
+table.dataTable thead>tr>td.sorting_desc::after,
+table.dataTable thead>tr>td.sorting_asc_disabled::before,
+table.dataTable thead>tr>td.sorting_asc_disabled::after,
+table.dataTable thead>tr>td.sorting_desc_disabled::before,
+table.dataTable thead>tr>td.sorting_desc_disabled::after {
+    position: absolute;
+    display: block;
+    opacity: .125;
+    right: 10px;
+    line-height: 9px;
+    font-size: .9em;
+}
+
+
+th.sorting {
+    position: relative;
+    text-transform: capitalize !important;
+}
+
+table.dataTable thead>tr>th.sorting::before,
+table.dataTable thead>tr>th.sorting::after,
+table.dataTable thead>tr>th.sorting_asc::before,
+table.dataTable thead>tr>th.sorting_asc::after,
+table.dataTable thead>tr>th.sorting_desc::before,
+table.dataTable thead>tr>th.sorting_desc::after,
+table.dataTable thead>tr>th.sorting_asc_disabled::before,
+table.dataTable thead>tr>th.sorting_asc_disabled::after,
+table.dataTable thead>tr>th.sorting_desc_disabled::before,
+table.dataTable thead>tr>th.sorting_desc_disabled::after,
+table.dataTable thead>tr>td.sorting::before,
+table.dataTable thead>tr>td.sorting::after,
+table.dataTable thead>tr>td.sorting_asc::before,
+table.dataTable thead>tr>td.sorting_asc::after,
+table.dataTable thead>tr>td.sorting_desc::before,
+table.dataTable thead>tr>td.sorting_desc::after,
+table.dataTable thead>tr>td.sorting_asc_disabled::before,
+table.dataTable thead>tr>td.sorting_asc_disabled::after,
+table.dataTable thead>tr>td.sorting_desc_disabled::before,
+table.dataTable thead>tr>td.sorting_desc_disabled::after {
+    position: absolute;
+    display: block;
+    opacity: .125;
+    right: 10px;
+    line-height: 9px;
+    font-size: .9em;
+}
+
+.sorting_disabled.dt-checkboxes-cell.dt-checkboxes-select-all.sorting.sorting_asc::after,
+.sorting_disabled.dt-checkboxes-cell.dt-checkboxes-select-all.sorting.sorting_asc::before {
+    display: none;
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+}
+
+div.dataTables_wrapper div.dataTables_filter label {
+    font-weight: normal;
+    white-space: nowrap;
+    text-align: left;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+    margin-left: .5em;
+    display: inline-block;
+    width: auto;
+}
+
+#DataTables_Table_0_paginate .pagination {
+    float: right;
+}
+
+.reduced-size,
+tfoot {
+    font-size: 12px !important;
+}
+
+tfoot tr th {
+    text-transform: capitalize !important;
+}
+
+.pt-15 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-header2 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.card-title2 {
+    font-size: 15px;
+}
+
+.mba-1 {
+    margin-bottom: 10px;
+}
+
+#swal2-title {
+    color: #232323;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 2px;
+}
+
+.media-body.mt-50 p {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.media.mb-2 img {
+    object-fit: cover;
+    object-position: center;
+    border: 1px solid #82868b;
+}
+
+.avatar img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+.avatar-content.not-rounded img {
+    border-radius: 5px;
+}
+
+.breadcrumb-wrapper ul,
+.breadcrumb-wrapper li,
+.breadcrumb-wrapper a {
+    font-size: 12px !important;
+}
+
+
+.invalid-feedback-2 {
+    font-size: 0.857rem;
+    color: #ea5455;
+    margin-top: 10px;
+}
+
+.order_list_info>div {
+    margin-bottom: 15px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.payment_proof_section {
+    margin-top: 40px;
+}
+
+.payment_image_small_text {
+    font-size: 9px;
+    color: #dff;
+    text-align: right;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+.object-fitted {
+    object-fit: cover;
+}
+
+.payment_proof_section .text-left {
+    border-bottom: 1px solid #333a4f;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.content-header-title-left {
+    margin-bottom: 30px;
+    padding-top: 15px;
+    border-top: 1px solid #404656;
+    border-bottom: 1px solid #404656;
+    margin-top: 50px;
+    padding-bottom: 15px;
+}
+
+.card_dilverable_qty {
+    padding: 20px;
+    background: #161d31;
+    margin-bottom: 20px;
+}
+
+.card_number_header {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #404656;
+    padding-bottom: 10px;
+}
+
+.view_uploaded_image a {
+    margin-top: 20px;
+    font-size: 11px;
+    color: #28c76f !important;
+    display: inline-block;
+}
+
+.img-responsive {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.swal2-popup.swal2-modal.swal2-show #swal2-title {
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: 900;
+}
+
+.handle_list_style {
+    padding-left: 15px;
+}
+
+.handle_list_style li {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    list-style: decimal;
+}
+
+.dataTables_info {
+    font-size: 13px;
+}
+
+#featured-image {
+    object-fit: cover;
+}
+
+.tox-promotion {
+    display: none;
+}
+
+.avatar-wrapper-bg img {
+    border: 1px solid #848484;
+    border-radius: 100px;
+    background: #888;
+}
+
+#blog-feature-image {
+    object-fit: cover;
+    border: 1px solid;
+}
+
+.avatar-bg img {
+    object-fit: cover;
+}
